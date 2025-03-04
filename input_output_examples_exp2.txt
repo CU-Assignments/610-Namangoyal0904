@@ -1,0 +1,149 @@
+Problem 1: Product Class (Easy Level)
+
+Input:
+Product ID: 101
+Name: Laptop
+Price: 75000
+
+Output:
+Product Details:
+ID: 101
+Name: Laptop
+Price: 75000
+
+Input:
+Product ID: 102
+Name: Smartphone
+Price: 35000
+
+Output:
+Product Details:
+ID: 102
+Name: Smartphone
+Price: 35000
+
+Problem 2: Library Management System (Medium Level)
+
+Input:
+Book 1:
+Type: Fiction
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500
+
+Book 2:
+Type: Non-Fiction
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700
+
+Output:
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500
+
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700
+
+Input:
+Book 1:
+Type: Fiction
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Price: 600
+
+Book 2:
+Type: Non-Fiction
+Title: A Brief History of Time
+Author: Stephen Hawking
+Price: 800
+
+Output:
+Fiction Book Details:
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Price: 600
+
+Non-Fiction Book Details:
+Title: A Brief History of Time
+Author: Stephen Hawking
+Price: 800
+
+Problem 3: Student Information System (Hard Level)
+
+Input:
+1
+Alice
+20
+101
+2
+Mr. Smith
+40
+Mathematics
+3
+4
+
+Output:
+Student added successfully!
+Teacher added successfully!
+
+Student Details:
+Name: Alice
+Age: 20
+Roll Number: 101
+
+Teacher Details:
+Name: Mr. Smith
+Age: 40
+Subject: Mathematics
+
+Exiting Student Information System.
+
+Input:
+1
+Bob
+22
+102
+1
+Charlie
+21
+103
+2
+Mrs. Jones
+45
+Physics
+3
+4
+
+Output:
+Student added successfully!
+Student added successfully!
+Teacher added successfully!
+
+Student Details:
+Name: Bob
+Age: 22
+Roll Number: 102
+
+Student Details:
+Name: Charlie
+Age: 21
+Roll Number: 103
+
+Teacher Details:
+Name: Mrs. Jones
+Age: 45
+Subject: Physics
+
+Exiting Student Information System.
+
+Input:
+3
+4
+
+Output:
+No records to display.
+Exiting Student Information System.
